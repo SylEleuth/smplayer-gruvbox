@@ -5,7 +5,16 @@ A theme for [SMPlayer](https://github.com/smplayer-dev/smplayer) based on the Gr
 https://github.com/morhetz/gruvbox
 
 
-![Screenshot_20210406_164130](https://user-images.githubusercontent.com/33354262/113740797-eef4ab80-96f8-11eb-880f-0d0d8353467d.png)
+Palette
+-------
+
+### Dark mode
+
+![Palette Dark](http://i.imgur.com/wa666xg.png)
+
+### Light mode
+
+![Palette Light](http://i.imgur.com/49qKyYW.png)
 
 
 ## Installation
