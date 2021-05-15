@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="favorite-add.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1376"
+     inkscape:window-height="460"
+     id="namedview7"
+     showgrid="true"
+     inkscape:zoom="5.7265625"
+     inkscape:cx="5.0894524"
+     inkscape:cy="16.325376"
+     inkscape:window-x="544"
+     inkscape:window-y="620"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg5">
+    <inkscape:grid
+       type="xygrid"
+       id="grid13" />
+  </sodipodi:namedview>
+  <path
+     id="path2"
+     style="fill:#ebdbb2;stroke-width:3.99899"
+     d="M 32.008062,2 C 29.982813,2 23.453778,19.12792 21.815319,20.37818 20.176855,21.628438 2.6492684,22.861899 2.0234301,24.884857 1.3975958,26.907819 14.886385,38.717279 15.512219,40.740238 c 0.625834,2.022962 -5.137577,19.916281 -3.499118,21.166537 1.638462,1.250266 17.969712,-8.575963 19.994961,-8.575963 0.526044,0 2.050787,0.680493 3.998992,1.640215 V 48.00403 a 3.9993921,3.9993921 0 0 1 3.998993,-3.998991 h 3.998992 v -3.998992 a 3.9993921,3.9993921 0 0 1 3.998991,-3.998993 h 4.600406 C 56.738422,31.763123 62.408058,26.227487 61.992694,24.884857 61.36686,22.861895 43.839261,21.628438 42.200805,20.37818 40.562338,19.12792 34.033311,2 32.008062,2 Z M 48.00403,40.006047 v 7.997983 h -7.997983 v 7.997985 H 48.00403 V 64 h 7.997985 V 56.002015 H 64 V 48.00403 h -7.997985 v -7.997983 z" />
+</svg>
