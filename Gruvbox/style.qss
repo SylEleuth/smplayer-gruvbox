@@ -273,7 +273,7 @@ QSlider:focus {
 }
 
 QLineEdit {
-    background-color: #282828;
+    background-color: #504945;
     padding: 5px;
     border-style: solid;
     border: 1px solid #504945;
@@ -308,13 +308,13 @@ QAbstractScrollArea {
 QScrollBar:horizontal {
     height: 15px;
     margin: 3px 15px 3px 15px;
-    border: 1px transparent #282828;
+    border: 1px transparent #3c3835;
     border-radius: 4px;
-    background-color: #282828;
+    background-color: #3c3835;
 }
 
 QScrollBar::handle:horizontal {
-    background-color: #282828;
+    background-color: #3c3835;
     min-width: 5px;
     border-radius: 4px;
 }
@@ -366,15 +366,15 @@ QScrollBar::sub-page:horizontal {
 }
 
 QScrollBar:vertical {
-    background-color: #282828;
+    background-color: #3c3835;
     width: 15px;
     margin: 15px 3px 15px 3px;
-    border: 1px transparent #282828;
+    border: 1px transparent #3c3835;
     border-radius: 4px;
 }
 
 QScrollBar::handle:vertical {
-    background-color: #282828;
+    background-color: #3c3835;
     min-height: 5px;
     border-radius: 4px;
 }
@@ -704,9 +704,9 @@ QTabBar::close-button:pressed {
 
 QTabBar::tab:top {
     color: #ebdbb2;
-    border: 1px solid #504945;
+    border: 1px solid #282828;
     border-bottom: 1px transparent #282828;
-    background-color: #282828;
+    background-color: #3c3836;
     padding: 5px;
     min-width: 50px;
     border-top-left-radius: 2px;
@@ -717,7 +717,7 @@ QTabBar::tab:top:selected {
     color: #ebdbb2;
     background-color: #282828;
     border: 1px solid #504945;
-    border-bottom: 2px solid #fe8019;
+    border-bottom: 1px solid #fe8019;
     border-top-left-radius: 2px;
     border-top-right-radius: 2px;
 }
@@ -1023,6 +1023,8 @@ QToolButton::menu-button:pressed {
 
 QToolButton::menu-indicator {
     image: url(rc/down_arrow.png);
+    height: 6px;
+    width: 9px;
     top: -7px;
     left: -2px;
     /* shift it a bit */
@@ -1055,9 +1057,9 @@ QPushButton::menu-indicator {
 }
 
 QTableView {
-    border: 1px solid #504945;
+    border: 1px solid #3c3836;
     gridline-color: #282828;
-    background-color: #282828;
+    background-color: #3c3836;
 }
 
 QTableView,
@@ -1353,7 +1355,7 @@ QStatusBar::item {
 /* Time labels in control bars */
 #time_label {
 	border: 0px solid transparent;
-	font: bold 12px;
+	font: bold 14px;
 	padding-left: 10px;
 	padding-right: 10px;
 }
