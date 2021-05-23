@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333332"
+   version="1.1"
+   id="svg8"
+   inkscape:export-filename="/home/eleuth/Git/smplayer-gruvbox/Gruvbox/rc/sizegrip.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   sodipodi:docname="sizegrip.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.313709"
+     inkscape:cx="4.3178289"
+     inkscape:cy="12.313664"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-global="true"
+     inkscape:window-width="910"
+     inkscape:window-height="690"
+     inkscape:window-x="0"
+     inkscape:window-y="390"
+     inkscape:window-maximized="0"
+     inkscape:snap-bbox="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid10" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect926"
+       style="opacity:1;fill:#665c54;fill-opacity:1;stroke-width:1.0471"
+       d="M 4.0447379,0 H 4.2333332 V 0.1860352 L 0.18712686,4.2330111 0,4.2333332 3.8356922e-5,4.0459224 Z"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       id="rect926-3"
+       style="opacity:1;fill:#665c54;fill-opacity:1;stroke-width:1.0471"
+       d="M 4.2333332,0.9456787 V 1.3229166 L 1.3229166,4.2333332 H 0.94849515 Z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="rect926-3-6"
+       style="opacity:1;fill:#665c54;fill-opacity:1;stroke-width:1.0471"
+       d="m 4.2333332,2.1166666 v 0.374767 L 2.4916785,4.2333332 H 2.1166666 Z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="rect926-3-6-7"
+       style="opacity:1;fill:#665c54;fill-opacity:1;stroke-width:1.0471"
+       d="M 4.2333332,3.1749999 V 3.5485592 L 3.5493237,4.2333332 H 3.1749999 Z"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+</svg>
