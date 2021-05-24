@@ -19,7 +19,7 @@ QWidget {
 
 QWidget:item:hover {
     background-color: #fe8019;
-    color: #ebdbb2;
+    color: #fe8019;
 }
 
 QWidget:item:selected {
@@ -306,15 +306,15 @@ QAbstractScrollArea {
 }
 
 QScrollBar:horizontal {
-    height: 15px;
-    margin: 3px 15px 3px 15px;
+    height: 12px;
+    margin: 3px 12px 3px 12px;
     border: 1px transparent #3c3835;
     border-radius: 4px;
     background-color: #3c3835;
 }
 
 QScrollBar::handle:horizontal {
-    background-color: #3c3835;
+    background-color: #665c54;
     min-width: 5px;
     border-radius: 4px;
 }
@@ -367,15 +367,15 @@ QScrollBar::sub-page:horizontal {
 
 QScrollBar:vertical {
     background-color: #3c3835;
-    width: 15px;
-    margin: 15px 3px 15px 3px;
+    width: 12px;
+    margin: 12px 3px 12px 3px;
     border: 1px transparent #3c3835;
     border-radius: 4px;
 }
 
 QScrollBar::handle:vertical {
-    background-color: #3c3835;
-    min-height: 5px;
+    background-color: #665c54;
+    min-height: 25px;
     border-radius: 4px;
 }
 
