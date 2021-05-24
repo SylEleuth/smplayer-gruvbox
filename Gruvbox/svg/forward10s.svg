@@ -40,15 +40,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1376"
-     inkscape:window-height="1060"
+     inkscape:window-width="957"
+     inkscape:window-height="369"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="3.7148437"
-     inkscape:cx="-6.1324996"
-     inkscape:cy="1.251686"
-     inkscape:window-x="544"
-     inkscape:window-y="20"
+     inkscape:zoom="7.4296874"
+     inkscape:cx="25.608458"
+     inkscape:cy="26.413681"
+     inkscape:window-x="0"
+     inkscape:window-y="711"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg4"
      inkscape:document-rotation="0">
@@ -57,11 +57,11 @@
        id="grid12" />
   </sodipodi:namedview>
   <path
-     style="fill:#ebdbb2;stroke-width:3.31376"
-     d="M 33,31.999999 15.00603,49.087196 V 14.912804 Z"
+     style="fill:#ebdbb2;stroke-width:3.4263"
+     d="M 33.61109,32.580294 15.00603,50.247787 V 14.912804 Z"
      id="path4" />
   <path
-     style="fill:#ebdbb2;stroke-width:3.26728"
-     d="M 50.747634,31.999999 33.00603,48.847548 V 15.152452 Z"
+     style="fill:#ebdbb2;stroke-width:3.37824"
+     d="M 51.961448,32.580294 33.617325,50 V 15.160591 Z"
      id="path4-3" />
 </svg>
